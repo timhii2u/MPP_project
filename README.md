@@ -1,9 +1,9 @@
 Group Members:
 
-Bisrat Kidane
-Eden kenate
-Samson Tulu
-Timothy Nuwarinda
+Bisrat Kidane - bkidane@mum.edu,
+Eden kenate - ebereda@mum.edu,
+Samson Tulu - stulu@mum.edu,
+Timothy Nuwarinda - tnuwarinda@mum.edu;
 
 
 Instructions;
